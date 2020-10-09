@@ -46,11 +46,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
-.hero {
+figure .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -74,6 +70,38 @@ p {
     margin-left: 20px;
     width: 75%;
 }
+
+.search-engine-optimization {
+    background-color: #0072bb;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.online-reputation-management {
+    background-color: #0072bb;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+.social-media-marketing {
+    background-color: #0072bb;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
 
 aside {
     background-color: #2589bd;
@@ -101,33 +129,6 @@ aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.search-engine-optimization {
-    background-color: #0072bb;
-    color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 300px;
-    margin-bottom: 20px;
-    padding: 50px;
-}
-
-.online-reputation-management {
-    background-color: #0072bb;
-    color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 300px;
-    margin-bottom: 20px;
-    padding: 50px;
-}
-
-.social-media-marketing {
-    background-color: #0072bb;
-    color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 300px;
-    margin-bottom: 20px;
-    padding: 50px;
 }
 
 .search-engine-optimization img {
