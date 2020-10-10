@@ -71,7 +71,7 @@ figure .hero {
     width: 75%;
 }
 
-<<<<<<< HEAD
+
 .search-engine-optimization {
     background-color: #0072bb;
     color: #ffffff;
@@ -105,9 +105,6 @@ p {
 
 
 aside {
-=======
-.benefits {
->>>>>>> parent of 6de6cc1... removed repetitive css in section aside
     background-color: #2589bd;
     clear: both;
     float: right;
@@ -118,17 +115,7 @@ aside {
     width: 20%;
 }
 
-.benefit-lead {
-    color: #ffffff;
-    margin-bottom: 32px;
-}
-
-.benefit-brand {
-    color: #ffffff;
-    margin-bottom: 32px;
-}
-
-.benefit-cost {
+aside section {
     color: #ffffff;
     margin-bottom: 32px;
 }
@@ -138,19 +125,8 @@ aside section h3 {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* refers to three img in section */
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
