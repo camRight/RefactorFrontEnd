@@ -72,7 +72,7 @@ header nav ul li a {
 }
 
 
-.search-engine-optimization {
+article {
     background-color: #0072bb;
     color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -84,25 +84,6 @@ header nav ul li a {
 p {
     font-size: 16px;
 }
-
-.online-reputation-management {
-    background-color: #0072bb;
-    color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 300px;
-    margin-bottom: 20px;
-    padding: 50px;
-}
-
-.social-media-marketing {
-    background-color: #0072bb;
-    color: #ffffff;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 300px;
-    margin-bottom: 20px;
-    padding: 50px;
-}
-
 
 aside {
     background-color: #2589bd;
@@ -132,33 +113,14 @@ aside section img {
     max-width: 150px;
 }
 
-.search-engine-optimization img {
+article img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+article h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
-
-.online-reputation-management h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
-.social-media-marketing h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
 
 footer {
     clear: both;
