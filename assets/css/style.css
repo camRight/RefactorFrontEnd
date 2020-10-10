@@ -46,7 +46,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
-figure .hero {
+.hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
